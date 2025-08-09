@@ -1,0 +1,16 @@
+// Q6. Write a program that takes a list
+// of numbers as input and prints the numbers greater than 5 using a for loop and
+// if-else condition.
+
+void main() {
+  // Sample list of numbers
+  List<int> numbers = [2, 7, 3, 10, 5, 6, 1, 8];
+
+  print("Numbers greater than 5:");
+
+  for (int num in numbers) {
+    if (num > 5) {
+      print(num);
+    } else {}
+  }
+}
