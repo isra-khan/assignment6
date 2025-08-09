@@ -1,7 +1,5 @@
-Q7.  Write a program that counts the
-number of vowels in a given string using a for loop and if-else condition.
-
-
+// Q7.  Write a program that counts the
+// number of vowels in a given string using a for loop and if-else condition.
 
 import 'dart:io';
 
@@ -16,7 +14,7 @@ void main() {
     if (vowels.contains(input[i])) {
       vowelCount++;
     } else {
-      // Not a vowel — do nothing or add logic if needed
+      //
     }
   }
 
