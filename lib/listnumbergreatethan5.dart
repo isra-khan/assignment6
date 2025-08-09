@@ -3,7 +3,6 @@
 // if-else condition.
 
 void main() {
-  // Sample list of numbers
   List<int> numbers = [2, 7, 3, 10, 5, 6, 1, 8];
 
   print("Numbers greater than 5:");
